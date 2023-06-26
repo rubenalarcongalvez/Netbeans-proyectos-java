@@ -1,0 +1,3 @@
+Texto tal cual.
+
+Salto de línea doble y ya. También hay \\77//

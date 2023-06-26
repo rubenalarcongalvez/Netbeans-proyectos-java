@@ -1,0 +1,6 @@
+Fecha			Temperatura máxima		Temperatura mínima
+2020-01-01			 20				 15
+2022-04-18			 30				 20
+
+Temperatura máxima: 30
+Temperatura mínima: 15
